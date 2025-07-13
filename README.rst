@@ -42,6 +42,7 @@ Dependencies
 -  `NetworkX`_: Used to plot reaction networks
 -  `More Itertools`_: Used for writing ranges for OpenMKM output.
 -  `PyYAML`_: Used to write YAML input files for OpenMKM.
+-  `pymatgen`_: Used to determine symmetry number for gas molecules.
 
 Getting Started
 ---------------
@@ -129,7 +130,8 @@ Special Thanks
 .. _dnspython: http://www.dnspython.org/
 .. _networkx: https://networkx.github.io/
 .. _`More Itertools`: https://more-itertools.readthedocs.io/en/stable/index.html
-.. _`PyYAML`: https://pyyaml.org/
+.. _`PyYAML`: https://pyyaml.org
+.. _`pymatgen`: https://pymatgen.org/
 .. _tests directory: https://github.com/VlachosGroup/pMuTT/tree/master/pmutt/tests
 .. _LICENSE.md: https://github.com/VlachosGroup/pMuTT/blob/master/LICENSE.md
 .. _`see documentation for more thorough instructions`: https://vlachosgroup.github.io/pMuTT/install.html
